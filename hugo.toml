@@ -1,0 +1,9 @@
+baseURL = 'https://yvesxu.com/'
+languageCode = 'zh-cn'
+title = "Yves Xu | Portfolio"
+theme = "blowfish"
+
+[params]
+  colorScheme = "dark" 
+  showSummary = true
+  showTableOfContents = true 
